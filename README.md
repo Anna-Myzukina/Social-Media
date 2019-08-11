@@ -1,5 +1,5 @@
 # Social-Media
-[A social media clone platform](https://anna-myzukina.github.io/Social-Media/)
+A social media clone platform: [Live version](https://anna-myzukina.github.io/Social-Media/)
 
 ### To Create A Social Network Platform In Five Steps :
 
